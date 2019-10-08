@@ -1,0 +1,17 @@
+;;;=========
+;;;  Yownu
+;;;=========
+;;;
+;;;; Instance
+;;;
+
+
+(data jazz
+
+
+(version 1 4)
+(import world.instance)
+
+
+(form
+  (<Instance> template: ("skirmish" "Warsong"))))
